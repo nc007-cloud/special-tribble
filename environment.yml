@@ -1,0 +1,17 @@
+name: music-mood-classification
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - jupyterlab
+  - nbconvert
+  - pip
+  - pip:
+      - keras-tuner
