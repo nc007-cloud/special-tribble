@@ -2,7 +2,7 @@
 #Music Mood Classifier
 # Music Mood Classification
 # Dataset: https://drive.google.com/drive/folders/1D3cXbMS_znaZb0Y46jEaos-7lD3QaQEP
-**Overview:**  
+**Quick Overview:**  
 This repository implements a robust Music Mood Classification system that uses advanced audio features and machine learning to automatically tag songs with mood labels (e.g., "Mellow Acoustic 🎶," "Powerful Calm 💥," "Upbeat 🎉," "Groovy Dance 💃🕺"). Our approach combines unsupervised clustering (K-Means & Gaussian Mixture Models) with a high-performance neural network enhanced by feature engineering and cross-validation.
 
 **Business Value:**  
@@ -22,7 +22,7 @@ Explore the code to see how advanced feature engineering and deep learning combi
 
 ## # Music Mood Classification
 
-## Project Overview
+## Detailed Project Overview
 
 **Music Mood Classification** is a cutting-edge system designed to automatically detect and classify the mood of songs based on key audio features. By leveraging advanced machine learning techniques—including unsupervised clustering (K-Means and Gaussian Mixture Models) and a robust neural network classifier—this project extracts nuanced insights from music data. The system captures both hard (discrete) and fuzzy (probabilistic) mood labels, enabling the creation of personalized, context-aware music recommendations.
 
