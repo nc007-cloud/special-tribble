@@ -1,7 +1,7 @@
 # special-tribble
 #Music Mood Classifier
 # Music Mood Classification
-# Dataset: https://www.kaggle.com/code/heraneshetu/personalized-music-mood-recommender/input
+# Dataset: https://drive.google.com/drive/folders/1D3cXbMS_znaZb0Y46jEaos-7lD3QaQEP
 **Overview:**  
 This repository implements a robust Music Mood Classification system that uses advanced audio features and machine learning to automatically tag songs with mood labels (e.g., "Mellow Acoustic 🎶," "Powerful Calm 💥," "Upbeat 🎉," "Groovy Dance 💃🕺"). Our approach combines unsupervised clustering (K-Means & Gaussian Mixture Models) with a high-performance neural network enhanced by feature engineering and cross-validation.
 
