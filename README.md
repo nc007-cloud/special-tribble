@@ -1,8 +1,8 @@
 # special-tribble
-#Music Mood Classifier
-# Music Mood Classification
+
+# Music Mood Classification: A Precursor Pipeline to Building Robust Mood-Based Music Recommendation Systems
 # Dataset: https://drive.google.com/drive/folders/1D3cXbMS_znaZb0Y46jEaos-7lD3QaQEP
-# Music Mood Classification and Recommendation System
+# Music Mood Classification and Recommendation System Pipeline
 
 **Author:** Nilovna Chatterjee, PhD  
 **GitHub:** [https://github.com/nc007-cloud](https://github.com/nc007-cloud)
